@@ -34,7 +34,9 @@ Each day’s sales are represented as a list, making the data structure easy to 
 
 ## Implementation 
 •	Language: Python
+
 •	Entry file: `analysis.py`
+
 •	Uses built-in functions such as `sum`, `max`, `min`, and `len`
  
 ## Sales Data Structure
