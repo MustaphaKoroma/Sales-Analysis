@@ -56,11 +56,16 @@ Orders = [
 •	Each number represents an individual order value
 
 ## How the Script Works
-The Python code includes clear comments to explain each step, making it easy to follow. It works by
+The Python code includes clear comments to explain each step, making it easy to follow. It works by:
+
 •	Checking whether sales data is available
+
 •	Calculating total sales for each day
+
 •	Identifying the highest and lowest sales days
+
 •	Calculating the overall average daily sales, and
+
 •	Determines whether sales are trending upward
 
 
