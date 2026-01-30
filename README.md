@@ -4,25 +4,41 @@ This repository contains a simple Python script that analyses daily sales data. 
 
 ## Learning Objectives
 This project helps users practice:
+
 •	Working with Python lists
+
 •	Using for loops
+
 •	Applying built-in functions such as sum(), max(), min(), and len()
+
 •	Writing conditional logic with if statements
+
 •	Producing readable and well-documented Python code
 
 ## Project Overview
 The script processes daily sales orders and produces the following insights:
+
 •	Total sales for each day
+
 •	The day with the highest sales
+
 •	The day with the lowest sales
+
 •	Overall average daily sales
+
 •	Whether sales are trending upward
+
 Each day’s sales are represented as a list, making the data structure easy to understand and modify.
 
 ## Assumptions
+The Python script has the following assumptions:
+
 •	Input data is a list of daily order values
+
 •	Empty days are treated as zero sales
+
 •	Trend is upward if the last day exceeds the first day
+
 •	A single day does not indicate a trend
 
 ## Approach
