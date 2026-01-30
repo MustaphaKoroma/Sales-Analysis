@@ -68,10 +68,15 @@ python analysis.py
 
 ## Example Output
 The analysis produces the following outputs:
+
 •	Total sales per day: [32, 35, 25, 55]
+
 •	Highest sales day: Day 4 ( 55 )
+
 •	Lowest sales day: Day 3 ( 25 )
+
 •	Overall average sales: 36.75
+
 •	Trending Upward: True
 
 ## License
