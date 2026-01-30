@@ -27,9 +27,13 @@ Each day’s sales are represented as a list, making the data structure easy to 
 
 ## Approach
 •	Loop through daily sales and calculate totals
+
 •	Store daily totals in a list
+
 •	Find maximum and minimum daily totals
+
 •	Calculate overall average sales per day
+
 •	Compare first and last day totals to identify the trend
 
 ## Implementation 
@@ -46,7 +50,9 @@ Orders = [
     [0, 5, 15, 5],
     [25, 30]
 ]
+
 •	Each inner list represents one day of sales
+
 •	Each number represents an individual order value
 
 ## How the Script Works
