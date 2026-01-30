@@ -59,6 +59,7 @@ The Python code includes clear comments to explain each step, making it easy to 
 ## How to Run the Program
 Requirements
 •	Python 3.15
+
 Steps
 1.	Step 1: Clone this repository or download the file
 2.	Step 2: Open a terminal in the project directory
