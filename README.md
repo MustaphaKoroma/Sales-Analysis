@@ -7,7 +7,7 @@ This project helps users practice:
 
 •	Working with Python lists
 
-•	Uses for loops
+•	Using loops
 
 •	Applying built-in functions such as sum(), max(), min(), and len()
 
